@@ -123,11 +123,6 @@ I’m deeply interested in:
 
 ---
 
-## GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shalini363\&show_icons=true\&theme=default)
-
----
 
 ## Connect With Me
 
