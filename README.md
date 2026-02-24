@@ -1,11 +1,11 @@
 
 
-# Hi 👋 I'm Shalini Sharma
+# Hi, I'm Shalini Sharma
 
-🎓 M.S. Data Science @ NJIT
-💻 Data Scientist | ML Engineer | AI Systems Builder
-📍 Jersey City, NJ
-🚀 Building production-grade ML & GenAI systems
+M.S. Data Science @ NJIT
+| Data Scientist | ML Engineer | AI Systems Builder
+| Jersey City, NJ
+| Building production-grade ML & GenAI systems
 
 ---
 
@@ -85,28 +85,28 @@ Reduced manual maintenance by 40%.
 
 ### Languages
 
-Python | SQL | R
+Python, SQL, R
 
 ### ML & Analytics
 
-Feature Engineering
-Forecasting
-Anomaly Detection
-A/B Testing
+Feature Engineering,
+Forecasting,
+Anomaly Detection,
+A/B Testing,
 EDA
 
 ### MLOps & Infrastructure
 
-Docker
-Kubernetes
-Airflow
-REST APIs
+Docker,
+Kubernetes,
+Airflow,
+REST APIs,
 Microservices
 
 ### Cloud
 
-AWS
-GCP
+AWS,
+GCP,
 Azure
 
 ---
